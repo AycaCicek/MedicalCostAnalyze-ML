@@ -7,3 +7,4 @@
 * GBM
 * XGBoost
 * LGBM
+--> Model Başarıları:
